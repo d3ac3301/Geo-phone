@@ -32,7 +32,7 @@ Download Termux app from google play store and type following commands:
       pkg install python3
 ```
 ```
-      git clone https://github.com/evilfeonix/Geo-Phone.git
+      git clone https://github.com/d3ac3301/Geo-phone.git
 ```
 ```
       cd Geo-Phone
